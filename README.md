@@ -29,7 +29,7 @@ g++ -O4 -I. -I/usr/local/include/opencv4 mainsuper.cpp -o mainsuper /usr/local/l
 
 # Run SuPeR
 
-SuPeR takes as input a color image and an integer number, which defines a set of tiles on the input image. It output a color image, which is the enhanced version of the input one.
+SuPeR takes as input a color image and an integer number, which defines a set of tiles on the input image. SuPeR outputs a color image, which is the enhanced version of the input one.
 
 Example: mainsuper <input_image> <n_tiles> <output_image>
 
