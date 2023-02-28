@@ -35,7 +35,7 @@ Example: mainsuper <input_image> <n_tiles> <output_image>
 
 # Further Development
 
-SuPeR-B is a new version of SuPeR developed to enhance backlight images. The code of SuPeR-Bcan be derived from that of SuPeR as expalined in 
+SuPeR-B is a new version of SuPeR developed to enhance backlight images. The code of SuPeR-B can be derived from that of SuPeR as expalined in 
 
 Lecca M. "A Retinex Inspired Bilateral Filter for Enhancing Images under Difficult Light Conditions." VISIGRAPP (4: VISAPP). Online Streaming, 2021
 
