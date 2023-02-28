@@ -33,4 +33,13 @@ SuPeR takes as input a color image and an integer number, which defines a set of
 
 Example: mainsuper <input_image> <n_tiles> <output_image>
 
+# Further Development
+
+SuPeR-B is a new version of SuPeR developed to enhance backlight images. The code of SuPeR-Bcan be derived from that of SuPeR as expalined in 
+
+Lecca M. "A Retinex Inspired Bilateral Filter for Enhancing Images under Difficult Light Conditions." VISIGRAPP (4: VISAPP). Online Streaming, 2021
+
+Lecca, M. (2023). "Enhancing Backlight and Spotlight Images by the Retinex-Inspired Bilateral Filter SuPeR-B". In: , et al. Computer Vision, Imaging and Computer Graphics Theory and Applications. VISIGRAPP 2021. Communications in Computer and Information Science, vol 1691. Springer, Cham. https://doi.org/10.1007/978-3-031-25477-2_15
+
+
 
